@@ -1,4 +1,10 @@
 .jumbotron{
-    background-image: url("http://www.raiders.com/news/article-1/Derek-Carr-Set-To-Appear-On-Cover-Of-Upcoming-Issue-Of-ESPN-The-Magazine/61216e8e-016f-4e6b-b5cf-869ba07fe973");
+    background: 
+    linear-gradient(
+      rgba(255, 255, 255, 0.45), 
+      rgba(255, 255, 255, 0.45)
+    ),
+    url("http://alumni.tennessee.edu/s/1341/images/editor/2017/benefits/benefits-espn.jpg");
+    
 }
 
